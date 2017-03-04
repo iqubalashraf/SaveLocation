@@ -1,0 +1,1 @@
+info/location/save/MainActivity.class

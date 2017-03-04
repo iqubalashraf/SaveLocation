@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Save Location</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_exit">Exit</string>
+
+    <string-array name="menu">
+        <item>Delete </item>
+        <item>Modify </item>
+        <item>Remove </item>
+    </string-array>
+</resources>
